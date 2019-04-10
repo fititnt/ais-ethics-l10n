@@ -2,6 +2,14 @@
 **[draft] List of a small number of English terms related to Ethics in Artificial
 Intelligence and Autonomous Systems (A/IS) translated to several languages**
 
+---
+
+> **Deprecated. See derivated project**:
+> - <https://github.com/fititnt/ais-ethics-tags>
+> - <https://tags.etica.ai/>
+
+---
+
 _See also:
 [ais-ethics](https://github.com/fititnt/ais-ethics) |
 [ais-ethics-l10n](https://github.com/fititnt/ais-ethics-l10n) |
